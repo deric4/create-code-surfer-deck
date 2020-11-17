@@ -9,7 +9,7 @@
   "repository": "pomber/create-code-surfer-deck",
   "license": "MIT",
   "dependencies": {
-    "arg": "^4.1.0",
+    "arg": "^5.0.0",
     "chalk": "^2.4.1",
     "cross-spawn": "^6.0.5",
     "fs-extra": "^8.0.1",
